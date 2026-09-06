@@ -1,4 +1,4 @@
-# llm-pdf-QnA-app
+# llm-pdf-Qna
 App to chat with your PDF document. Gain insightful information and learn &amp; understand with ease using OpenAI and LangChain.
 
 ![PDF-Chat-Bot](./imgs/pdf-chat-bot-llm.jpeg)
